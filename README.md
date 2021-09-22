@@ -16,3 +16,6 @@ It first checks if the current node is unvisited - if yes, it is appended in the
 Then for each neighbor of the current node, the dfs function is invoked again.
 The base case is invoked when all the nodes are visited.
 The function then returns.
+
+
+Source: educative.io
